@@ -3,13 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>fr.uni.institute.library</groupId>
     <artifactId>library-parent</artifactId>
-    <version>1.0.0</version>
+    <version>${library.version}</version>
+    <groupId>fr.uni.institute.library</groupId>
   </parent>
-  <groupId>fr.uni.institute.library</groupId>
   <artifactId>library-web</artifactId>
-  <version>${library.version}</version>
   <packaging>war</packaging>
   <name>library-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -48,7 +46,7 @@
 	<dependency>
 		<groupId>fr.uni.institute.library</groupId>
 		<artifactId>library-services-impl</artifactId>
-		<version>1.0.0</version>
+		<version>${library.version}</version>
 	</dependency>
   </dependencies>
 </project>
