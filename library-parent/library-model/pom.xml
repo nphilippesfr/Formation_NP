@@ -7,5 +7,6 @@
   </parent>
   <artifactId>library-model</artifactId>
   <name>LibraryModel</name>
+  <version>${library.version}</version>
   <description>couche métier de la bibliothèque</description>
 </project>

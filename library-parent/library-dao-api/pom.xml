@@ -6,6 +6,7 @@
     <version>${library.version}</version>
   </parent>
   <artifactId>library-dao-api</artifactId>
+  <version>${library.version}</version>
   <name>LibraryDaoApi</name>
   <dependencies>
   	<dependency>

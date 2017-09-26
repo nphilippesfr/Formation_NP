@@ -8,6 +8,7 @@
     <groupId>fr.uni.institute.library</groupId>
   </parent>
   <artifactId>library-web</artifactId>
+  <version>${library.version}</version>
   <packaging>war</packaging>
   <name>library-web Maven Webapp</name>
   <url>http://maven.apache.org</url>

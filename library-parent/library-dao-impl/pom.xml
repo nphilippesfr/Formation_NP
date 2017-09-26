@@ -6,6 +6,7 @@
     <version>${library.version}</version>
   </parent>
   <artifactId>library-dao-impl</artifactId>
+  <version>${library.version}</version>
   <name>LibraryDaoImpl</name>
   <description>L'implementation de la couche DAO</description>
   <dependencies>
