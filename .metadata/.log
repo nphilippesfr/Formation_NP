@@ -5153,3 +5153,9 @@ java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-26 16:46:42.349
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-09-27 08:39:29.484
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2017-09-27 08:40:59.390
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
