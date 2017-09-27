@@ -12,7 +12,7 @@ REM	%CATALINA_HOME%\bin\Tomcat8.exe start
 echo "----------------------"
 echo "tomcat is starting    "
 
-net stop Tomcat8
+net start Tomcat8
 
 timeout 2
 
